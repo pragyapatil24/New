@@ -6,5 +6,6 @@ public class StringExample {
         q= "good day";
         System.out.println(q);
     }
+	System.out.println("Regards");
 }
 
