@@ -6,7 +6,7 @@ public class DoWhile {
             a++;
         }
         while (a< 5);
-
+// thi si for git
 
     }
 }
